@@ -1,0 +1,17 @@
+.navbar{
+    
+    height: 100px;
+}
+.navbar ul li a{
+    color: white;
+}
+.navbar ul {
+     display: inline-block;
+}
+.navbar ul li{
+    display: inline-block;
+    
+}
+.navbar-logo i{
+    color: red;
+}
